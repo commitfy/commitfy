@@ -1,3 +1,3 @@
 title: Commitfy
 description: Commitfy
-theme: jekyll-theme-minimal
+theme: jekyll-theme-hacker
